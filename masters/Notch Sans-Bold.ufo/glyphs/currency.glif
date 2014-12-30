@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="currency" format="1">
+  <advance width="528"/>
+  <unicode hex="00A4"/>
+  <outline>
+    <contour>
+      <point x="71" y="376" type="line"/>
+      <point x="71" y="265" type="line"/>
+      <point x="195" y="155" type="line"/>
+      <point x="283" y="155" type="line"/>
+      <point x="273" y="260" type="line"/>
+      <point x="255" y="260" type="line"/>
+      <point x="224" y="289" type="line"/>
+      <point x="224" y="357" type="line"/>
+      <point x="255" y="385" type="line"/>
+      <point x="273" y="385" type="line"/>
+      <point x="283" y="485" type="line"/>
+      <point x="195" y="485" type="line"/>
+    </contour>
+    <contour>
+      <point x="244" y="485" type="line"/>
+      <point x="254" y="385" type="line"/>
+      <point x="273" y="385" type="line"/>
+      <point x="304" y="357" type="line"/>
+      <point x="304" y="289" type="line"/>
+      <point x="273" y="260" type="line"/>
+      <point x="254" y="260" type="line"/>
+      <point x="244" y="155" type="line"/>
+      <point x="332" y="155" type="line"/>
+      <point x="456" y="265" type="line"/>
+      <point x="456" y="376" type="line"/>
+      <point x="332" y="485" type="line"/>
+    </contour>
+    <component base="quotesingle" xOffset="380" yOffset="97" xScale="0.536" yScale="0.536" xyScale="0.536" yxScale="-0.536"/>
+    <component base="quotesingle" xOffset="148" yOffset="97" xScale="-0.536" yScale="0.536" xyScale="0.536" yxScale="0.536"/>
+    <component base="quotesingle" xOffset="380" yOffset="543" xScale="0.536" yScale="-0.536" xyScale="-0.536" yxScale="-0.536"/>
+    <component base="quotesingle" xOffset="148" yOffset="543" xScale="-0.536" yScale="-0.536" xyScale="-0.536" yxScale="0.536"/>
+  </outline>
+</glyph>

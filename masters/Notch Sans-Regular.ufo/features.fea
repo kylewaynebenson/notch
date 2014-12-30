@@ -1,0 +1,45 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+
+# automatic
+@Uppercase = [ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z ];
+
+feature aalt {
+# automatic
+feature lnum;
+feature onum;
+} aalt;
+
+feature lnum {
+# automatic
+sub zero.osf by zero;
+sub one.osf by one;
+sub two.osf by two;
+sub four.osf by four;
+sub five.osf by five;
+sub six.osf by six;
+sub seven.osf by seven;
+sub eight.osf by eight;
+sub nine.osf by nine;
+} lnum;
+
+feature onum {
+# automatic
+sub zero by zero.osf;
+sub one by one.osf;
+sub two by two.osf;
+sub four by four.osf;
+sub five by five.osf;
+sub six by six.osf;
+sub seven by seven.osf;
+sub eight by eight.osf;
+sub nine by nine.osf;
+} onum;
+
+feature cpsp {
+# automatic
+pos @Uppercase <5 0 10 0>;
+} cpsp;
+
