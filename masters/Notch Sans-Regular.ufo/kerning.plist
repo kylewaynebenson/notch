@@ -42,5 +42,39 @@
 		<key>@MMK_R_O</key>
 		<integer>-5</integer>
 	</dict>
+	<key>@MMK_L_a</key>
+	<dict>
+		<key>@MMK_R_o</key>
+		<integer>-6</integer>
+		<key>@MMK_R_t</key>
+		<integer>-30</integer>
+		<key>@MMK_R_v</key>
+		<integer>-20</integer>
+	</dict>
+	<key>@MMK_L_l</key>
+	<dict>
+		<key>@MMK_R_v</key>
+		<integer>-35</integer>
+	</dict>
+	<key>@MMK_L_o</key>
+	<dict>
+		<key>@MMK_R_a</key>
+		<integer>-6</integer>
+	</dict>
+	<key>@MMK_L_p</key>
+	<dict>
+		<key>@MMK_R_a</key>
+		<integer>-25</integer>
+	</dict>
+	<key>@MMK_L_t</key>
+	<dict>
+		<key>@MMK_R_a</key>
+		<integer>-30</integer>
+	</dict>
+	<key>@MMK_L_v</key>
+	<dict>
+		<key>@MMK_R_a</key>
+		<integer>-20</integer>
+	</dict>
 </dict>
 </plist>

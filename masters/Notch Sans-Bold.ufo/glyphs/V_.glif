@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="V" format="1">
-  <advance width="416"/>
+  <advance width="428"/>
   <unicode hex="0056"/>
   <outline>
     <contour>
-      <point x="422" y="700" type="line"/>
-      <point x="249" y="700" type="line"/>
-      <point x="223" y="320" type="line"/>
-      <point x="214" y="136" type="line"/>
-      <point x="146" y="76" type="line"/>
-      <point x="124" y="0" type="line"/>
-      <point x="331" y="0" type="line"/>
+      <point x="428" y="700" type="line"/>
+      <point x="255" y="700" type="line"/>
+      <point x="229" y="320" type="line"/>
+      <point x="220" y="136" type="line"/>
+      <point x="152" y="76" type="line"/>
+      <point x="130" y="0" type="line"/>
+      <point x="337" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="266" y="76" type="line"/>
-      <point x="200" y="135" type="line"/>
-      <point x="192" y="320" type="line"/>
-      <point x="166" y="700" type="line"/>
-      <point x="-6" y="700" type="line"/>
-      <point x="84" y="0" type="line"/>
-      <point x="290" y="0" type="line"/>
+      <point x="272" y="76" type="line"/>
+      <point x="206" y="135" type="line"/>
+      <point x="198" y="320" type="line"/>
+      <point x="172" y="700" type="line"/>
+      <point x="0" y="700" type="line"/>
+      <point x="90" y="0" type="line"/>
+      <point x="296" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

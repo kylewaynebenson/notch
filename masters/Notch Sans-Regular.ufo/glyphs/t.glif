@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="t" format="1">
-  <advance width="391"/>
+  <advance width="381"/>
   <unicode hex="0074"/>
   <outline>
     <contour>
-      <point x="16" y="500" type="line"/>
-      <point x="5" y="418" type="line"/>
-      <point x="386" y="418" type="line"/>
-      <point x="375" y="500" type="line"/>
+      <point x="11" y="500" type="line"/>
+      <point x="0" y="418" type="line"/>
+      <point x="381" y="418" type="line"/>
+      <point x="370" y="500" type="line"/>
     </contour>
-    <contour>
-      <point x="138" y="500" type="line"/>
-      <point x="138" y="0" type="line"/>
-      <point x="253" y="0" type="line"/>
-      <point x="253" y="500" type="line"/>
-    </contour>
+    <component base="i" xOffset="83"/>
   </outline>
 </glyph>

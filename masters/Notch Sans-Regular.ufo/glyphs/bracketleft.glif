@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bracketleft" format="1">
-  <advance width="251"/>
+  <advance width="246"/>
   <unicode hex="005B"/>
   <outline>
     <contour>
