@@ -12,23 +12,18 @@
       <point x="243" y="270" type="line"/>
       <point x="160" y="209" type="line"/>
       <point x="161" y="113" type="line"/>
-      <point x="231" y="158" type="line"/>
+      <point x="228" y="158" type="line"/>
       <point x="315" y="216" type="line"/>
       <point x="373" y="302" type="line"/>
       <point x="373" y="413" type="line"/>
       <point x="283" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="50" y="500" type="line"/>
-      <point x="50" y="0" type="line"/>
-      <point x="165" y="0" type="line"/>
-      <point x="165" y="500" type="line"/>
-    </contour>
-    <contour>
-      <point x="231" y="158" type="line"/>
-      <point x="271" y="0" type="line"/>
+      <point x="228" y="158" type="line"/>
+      <point x="268" y="0" type="line"/>
       <point x="385" y="0" type="line"/>
       <point x="315" y="216" type="line"/>
     </contour>
+    <component base="i"/>
   </outline>
 </glyph>

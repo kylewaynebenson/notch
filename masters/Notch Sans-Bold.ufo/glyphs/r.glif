@@ -19,16 +19,11 @@
       <point x="325" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="20" y="500" type="line"/>
-      <point x="20" y="0" type="line"/>
-      <point x="191" y="0" type="line"/>
-      <point x="191" y="500" type="line"/>
-    </contour>
-    <contour>
       <point x="231" y="120" type="line"/>
       <point x="251" y="0" type="line"/>
       <point x="425" y="0" type="line"/>
       <point x="370" y="216" type="line"/>
     </contour>
+    <component base="i"/>
   </outline>
 </glyph>

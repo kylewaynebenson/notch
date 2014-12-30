@@ -23,11 +23,6 @@
       <point x="207" y="85" type="line"/>
       <point x="121" y="85" type="line"/>
     </contour>
-    <contour>
-      <point x="50" y="500" type="line"/>
-      <point x="50" y="0" type="line"/>
-      <point x="165" y="0" type="line"/>
-      <point x="165" y="500" type="line"/>
-    </contour>
+    <component base="i"/>
   </outline>
 </glyph>

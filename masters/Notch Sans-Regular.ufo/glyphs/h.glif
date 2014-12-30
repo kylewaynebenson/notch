@@ -9,17 +9,7 @@
       <point x="306" y="308" type="line"/>
       <point x="121" y="308" type="line"/>
     </contour>
-    <contour>
-      <point x="50" y="500" type="line"/>
-      <point x="50" y="0" type="line"/>
-      <point x="165" y="0" type="line"/>
-      <point x="165" y="500" type="line"/>
-    </contour>
-    <contour>
-      <point x="276" y="500" type="line"/>
-      <point x="276" y="0" type="line"/>
-      <point x="391" y="0" type="line"/>
-      <point x="391" y="500" type="line"/>
-    </contour>
+    <component base="i"/>
+    <component base="i" xOffset="227"/>
   </outline>
 </glyph>

@@ -9,11 +9,6 @@
       <point x="324" y="0" type="line"/>
       <point x="338" y="136" type="line"/>
     </contour>
-    <contour>
-      <point x="20" y="500" type="line"/>
-      <point x="20" y="0" type="line"/>
-      <point x="191" y="0" type="line"/>
-      <point x="191" y="500" type="line"/>
-    </contour>
+    <component base="i"/>
   </outline>
 </glyph>
