@@ -7,7 +7,7 @@ name = Uppercase;
 }
 );
 copyright = "Copyright \U00A9 2014 by Kyle Wayne Benson. All rights reserved.";
-date = "2014-11-07 18:37:50 +0000";
+date = "2014-12-31 00:32:42 +0000";
 designer = "Kyle Wayne Benson";
 designerURL = kylewaynebenson.com/notch;
 familyName = "Notch Sans";
@@ -10220,5 +10220,5 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }
