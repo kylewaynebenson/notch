@@ -158,6 +158,20 @@
 		<string>asciicircum</string>
 		<string>dagger</string>
 		<string>daggerdbl</string>
+		<string>acute</string>
+		<string>breve</string>
+		<string>caron</string>
+		<string>cedilla</string>
+		<string>circumflex</string>
+		<string>dieresis</string>
+		<string>dotaccent</string>
+		<string>grave</string>
+		<string>hungarumlaut</string>
+		<string>macron</string>
+		<string>ogonek</string>
+		<string>ring</string>
+		<string>tilde</string>
+		<string>uni0326</string>
 	</array>
 </dict>
 </plist>

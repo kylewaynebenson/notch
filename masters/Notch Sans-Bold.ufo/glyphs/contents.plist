@@ -58,6 +58,8 @@
 	<string>Z_.glif</string>
 	<key>a</key>
 	<string>a.glif</string>
+	<key>acute</key>
+	<string>acute.glif</string>
 	<key>ampersand</key>
 	<string>ampersand.glif</string>
 	<key>asciicircum</key>
@@ -80,14 +82,22 @@
 	<string>bracketleft.glif</string>
 	<key>bracketright</key>
 	<string>bracketright.glif</string>
+	<key>breve</key>
+	<string>breve.glif</string>
 	<key>brokenbar</key>
 	<string>brokenbar.glif</string>
 	<key>bullet</key>
 	<string>bullet.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
+	<key>caron</key>
+	<string>caron.glif</string>
+	<key>cedilla</key>
+	<string>cedilla.glif</string>
 	<key>cent</key>
 	<string>cent.glif</string>
+	<key>circumflex</key>
+	<string>circumflex.glif</string>
 	<key>colon</key>
 	<string>colon.glif</string>
 	<key>comma</key>
@@ -104,8 +114,12 @@
 	<string>daggerdbl.glif</string>
 	<key>degree</key>
 	<string>degree.glif</string>
+	<key>dieresis</key>
+	<string>dieresis.glif</string>
 	<key>dollar</key>
 	<string>dollar.glif</string>
+	<key>dotaccent</key>
+	<string>dotaccent.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
 	<key>eight</key>
@@ -134,6 +148,8 @@
 	<string>four.osf.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
+	<key>grave</key>
+	<string>grave.glif</string>
 	<key>guillemotleft</key>
 	<string>guillemotleft.glif</string>
 	<key>guillemotright</key>
@@ -144,6 +160,8 @@
 	<string>guilsinglright.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
+	<key>hungarumlaut</key>
+	<string>hungarumlaut.glif</string>
 	<key>hyphen</key>
 	<string>hyphen.glif</string>
 	<key>i</key>
@@ -158,6 +176,8 @@
 	<string>lozenge.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
+	<key>macron</key>
+	<string>macron.glif</string>
 	<key>n</key>
 	<string>n.glif</string>
 	<key>nine</key>
@@ -168,6 +188,8 @@
 	<string>numbersign.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
+	<key>ogonek</key>
+	<string>ogonek.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
 	<key>one.osf</key>
@@ -210,6 +232,8 @@
 	<string>r.glif</string>
 	<key>registered</key>
 	<string>registered.glif</string>
+	<key>ring</key>
+	<string>ring.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
 	<key>section</key>
@@ -236,6 +260,8 @@
 	<string>three.glif</string>
 	<key>three.osf</key>
 	<string>three.osf.glif</string>
+	<key>tilde</key>
+	<string>tilde.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
 	<key>two</key>
@@ -246,6 +272,8 @@
 	<string>u.glif</string>
 	<key>underscore</key>
 	<string>underscore.glif</string>
+	<key>uni0326</key>
+	<string>uni0326.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
 	<key>w</key>
