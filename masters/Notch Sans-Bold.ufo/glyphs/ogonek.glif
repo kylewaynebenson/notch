@@ -17,7 +17,7 @@
       <point x="125" y="-144" type="line"/>
       <point x="125" y="-121" type="line"/>
       <point x="141" y="-105" type="line"/>
-      <point x="165" y="-105" type="line"/>
+      <point x="141" y="-105" type="line"/>
     </contour>
     <contour>
       <point x="232" y="0" type="move" name="_ogonek"/>

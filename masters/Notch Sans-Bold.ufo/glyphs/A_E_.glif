@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="528"/>
+  <unicode hex="00C6"/>
+  <outline>
+    <contour>
+      <point x="120" y="138" type="line"/>
+      <point x="303" y="138" type="line"/>
+      <point x="303" y="307" type="line"/>
+      <point x="218" y="243" type="line"/>
+      <point x="205" y="243" type="line"/>
+      <point x="120" y="307" type="line"/>
+    </contour>
+    <contour>
+      <point x="101" y="700" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="202" y="380" type="line"/>
+      <point x="216" y="565" type="line"/>
+      <point x="282" y="624" type="line"/>
+      <point x="306" y="700" type="line"/>
+    </contour>
+    <component base="E" xOffset="189"/>
+    <contour>
+      <point x="214" y="700" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="385" y="10" type="move" name="ogonek"/>
+    </contour>
+  </outline>
+</glyph>

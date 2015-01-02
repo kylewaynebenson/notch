@@ -11,5 +11,11 @@
     </contour>
     <component base="i"/>
     <component base="i" xOffset="239"/>
+    <contour>
+      <point x="225" y="500" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="225" y="250" type="move" name="center"/>
+    </contour>
   </outline>
 </glyph>

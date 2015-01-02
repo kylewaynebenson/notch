@@ -25,5 +25,11 @@
       <point x="370" y="216" type="line"/>
     </contour>
     <component base="i"/>
+    <contour>
+      <point x="218" y="500" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="218" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

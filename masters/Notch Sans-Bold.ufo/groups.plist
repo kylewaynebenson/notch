@@ -12,7 +12,9 @@
 	</array>
 	<key>@MMK_L_E</key>
 	<array>
+		<string>AE</string>
 		<string>E</string>
+		<string>OE</string>
 	</array>
 	<key>@MMK_L_F</key>
 	<array>
@@ -37,8 +39,10 @@
 	<key>@MMK_L_O</key>
 	<array>
 		<string>B</string>
+		<string>Eth</string>
 		<string>G</string>
 		<string>O</string>
+		<string>Oslash</string>
 		<string>zero</string>
 		<string>three</string>
 		<string>eight</string>
@@ -71,6 +75,10 @@
 	<key>@MMK_L_T</key>
 	<array>
 		<string>T</string>
+	</array>
+	<key>@MMK_L_Thorn</key>
+	<array>
+		<string>Thorn</string>
 	</array>
 	<key>@MMK_L_U</key>
 	<array>
@@ -191,6 +199,7 @@
 		<string>d</string>
 		<string>g</string>
 		<string>o</string>
+		<string>oslash</string>
 		<string>zero.osf</string>
 	</array>
 	<key>@MMK_L_one</key>
@@ -255,6 +264,10 @@
 	<array>
 		<string>t</string>
 	</array>
+	<key>@MMK_L_thorn</key>
+	<array>
+		<string>thorn</string>
+	</array>
 	<key>@MMK_L_two</key>
 	<array>
 		<string>two</string>
@@ -286,6 +299,11 @@
 	<key>@MMK_R_A</key>
 	<array>
 		<string>A</string>
+		<string>AE</string>
+	</array>
+	<key>@MMK_R_Eth</key>
+	<array>
+		<string>Eth</string>
 	</array>
 	<key>@MMK_R_I</key>
 	<array>
@@ -299,6 +317,7 @@
 		<string>M</string>
 		<string>N</string>
 		<string>P</string>
+		<string>Thorn</string>
 		<string>R</string>
 		<string>bracketleft</string>
 	</array>
@@ -311,6 +330,8 @@
 		<string>C</string>
 		<string>G</string>
 		<string>O</string>
+		<string>Oslash</string>
+		<string>OE</string>
 		<string>Q</string>
 		<string>zero</string>
 		<string>six</string>
@@ -425,6 +446,7 @@
 		<string>m</string>
 		<string>n</string>
 		<string>p</string>
+		<string>thorn</string>
 		<string>r</string>
 	</array>
 	<key>@MMK_R_j</key>
@@ -445,6 +467,7 @@
 		<string>c</string>
 		<string>g</string>
 		<string>o</string>
+		<string>oslash</string>
 		<string>q</string>
 		<string>zero.osf</string>
 	</array>

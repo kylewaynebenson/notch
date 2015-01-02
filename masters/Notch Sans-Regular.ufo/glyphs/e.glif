@@ -24,5 +24,14 @@
       <point x="121" y="85" type="line"/>
     </contour>
     <component base="i"/>
+    <contour>
+      <point x="170" y="500" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="170" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="305" y="10" type="move" name="ogonek"/>
+    </contour>
   </outline>
 </glyph>

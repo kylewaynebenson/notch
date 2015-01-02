@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflex" format="1">
-  <advance width="352"/>
+  <advance width="342"/>
   <unicode hex="02C6"/>
   <outline>
     <component base="caron" yOffset="1738" yScale="-1"/>
