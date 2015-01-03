@@ -6,7 +6,7 @@
     <component base="acute" xOffset="176"/>
     <component base="acute"/>
     <contour>
-      <point x="165" y="700" type="move" name="_top"/>
+      <point x="182" y="700" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>
