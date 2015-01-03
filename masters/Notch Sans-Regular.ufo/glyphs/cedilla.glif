@@ -5,7 +5,7 @@
   <outline>
     <component base="ogonek" xOffset="244" xScale="-1"/>
     <contour>
-      <point x="128" y="0" type="move" name="_bottom"/>
+      <point x="113" y="0" type="move" name="_bottom"/>
     </contour>
   </outline>
 </glyph>

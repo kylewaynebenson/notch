@@ -22,7 +22,7 @@
       <point x="227" y="250" type="move" name="center"/>
     </contour>
     <contour>
-      <point x="433" y="500" type="move" name="topright"/>
+      <point x="223" y="500" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

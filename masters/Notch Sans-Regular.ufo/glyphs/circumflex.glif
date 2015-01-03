@@ -5,7 +5,7 @@
   <outline>
     <component base="caron" yOffset="1738" yScale="-1"/>
     <contour>
-      <point x="182" y="700" type="move" name="_top"/>
+      <point x="173" y="700" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

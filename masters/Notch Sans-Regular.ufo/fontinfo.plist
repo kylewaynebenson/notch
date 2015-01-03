@@ -13,7 +13,7 @@
 	<key>familyName</key>
 	<string>Notch Sans</string>
 	<key>openTypeHeadCreated</key>
-	<string>2015/01/01 23:16:58</string>
+	<string>2015/01/02 20:54:09</string>
 	<key>openTypeNameDesigner</key>
 	<string>Kyle Wayne Benson</string>
 	<key>openTypeNameDesignerURL</key>
@@ -53,7 +53,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>2</integer>
+	<integer>3</integer>
 	<key>xHeight</key>
 	<integer>500</integer>
 </dict>

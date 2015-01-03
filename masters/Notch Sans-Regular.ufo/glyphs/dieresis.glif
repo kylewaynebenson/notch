@@ -6,7 +6,7 @@
     <component base="dotaccent" xOffset="193"/>
     <component base="dotaccent"/>
     <contour>
-      <point x="164" y="700" type="move" name="_top"/>
+      <point x="162" y="700" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

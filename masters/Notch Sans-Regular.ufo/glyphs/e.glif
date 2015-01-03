@@ -25,7 +25,7 @@
     </contour>
     <component base="i"/>
     <contour>
-      <point x="170" y="500" type="move" name="top"/>
+      <point x="197" y="500" type="move" name="top"/>
     </contour>
     <contour>
       <point x="170" y="0" type="move" name="bottom"/>
