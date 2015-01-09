@@ -30,10 +30,10 @@
       <point x="294" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="214" y="500" type="move" name="top"/>
+      <point x="433" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="385" y="10" type="move" name="ogonek"/>
+      <point x="214" y="500" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

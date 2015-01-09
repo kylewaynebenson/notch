@@ -4,13 +4,13 @@
   <outline>
     <contour>
       <point x="33" y="500" type="line"/>
-      <point x="33" y="271" type="line"/>
-      <point x="84" y="205" type="line"/>
+      <point x="33" y="276" type="line"/>
+      <point x="108" y="205" type="line"/>
       <point x="201" y="207" type="line"/>
-      <point x="221" y="185" type="line"/>
+      <point x="221" y="189" type="line"/>
       <point x="221" y="130" type="line"/>
-      <point x="205" y="118" type="line"/>
-      <point x="194" y="118" type="line"/>
+      <point x="207" y="118" type="line"/>
+      <point x="197" y="118" type="line"/>
       <point x="183" y="130" type="line"/>
       <point x="183" y="181" type="line"/>
       <point x="26" y="181" type="line"/>

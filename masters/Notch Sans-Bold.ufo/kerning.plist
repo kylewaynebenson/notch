@@ -6,14 +6,48 @@
 	<dict>
 		<key>@MMK_R_O</key>
 		<integer>-3</integer>
+		<key>@MMK_R_S</key>
+		<integer>-5</integer>
 		<key>@MMK_R_T</key>
 		<integer>-34</integer>
+		<key>@MMK_R_U</key>
+		<integer>-3</integer>
 		<key>@MMK_R_V</key>
 		<integer>-20</integer>
+		<key>@MMK_R_Y</key>
+		<integer>-28</integer>
+		<key>@MMK_R_qr</key>
+		<integer>-24</integer>
+		<key>@MMK_R_u</key>
+		<integer>-5</integer>
+	</dict>
+	<key>@MMK_L_F</key>
+	<dict>
+		<key>@MMK_R_a</key>
+		<integer>-30</integer>
+		<key>@MMK_R_i</key>
+		<integer>-10</integer>
+		<key>@MMK_R_t</key>
+		<integer>-10</integer>
+	</dict>
+	<key>@MMK_L_K</key>
+	<dict>
+		<key>@MMK_R_hyphen</key>
+		<integer>-34</integer>
+		<key>@MMK_R_y</key>
+		<integer>-30</integer>
 	</dict>
 	<key>@MMK_L_L</key>
 	<dict>
+		<key>@MMK_R_T</key>
+		<integer>-55</integer>
 		<key>@MMK_R_V</key>
+		<integer>-35</integer>
+		<key>@MMK_R_Y</key>
+		<integer>-40</integer>
+		<key>@MMK_R_qr</key>
+		<integer>-80</integer>
+		<key>@MMK_R_y</key>
 		<integer>-35</integer>
 	</dict>
 	<key>@MMK_L_O</key>
@@ -27,44 +61,165 @@
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-25</integer>
+		<key>@MMK_R_a</key>
+		<integer>-35</integer>
+	</dict>
+	<key>@MMK_L_R</key>
+	<dict>
+		<key>@MMK_R_o</key>
+		<integer>-13</integer>
+	</dict>
+	<key>@MMK_L_S</key>
+	<dict>
+		<key>@MMK_R_A</key>
+		<integer>-3</integer>
+		<key>@MMK_R_V</key>
+		<integer>-2</integer>
+		<key>@MMK_R_t</key>
+		<integer>-10</integer>
 	</dict>
 	<key>@MMK_L_T</key>
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-34</integer>
+		<key>@MMK_R_J</key>
+		<integer>-60</integer>
+		<key>@MMK_R_T</key>
+		<integer>8</integer>
+		<key>@MMK_R_a</key>
+		<integer>-48</integer>
+		<key>@MMK_R_i</key>
+		<integer>-30</integer>
+		<key>@MMK_R_o</key>
+		<integer>-50</integer>
+		<key>@MMK_R_period</key>
+		<integer>-55</integer>
+		<key>@MMK_R_v</key>
+		<integer>-35</integer>
+		<key>comma</key>
+		<integer>-70</integer>
+	</dict>
+	<key>@MMK_L_U</key>
+	<dict>
+		<key>@MMK_R_A</key>
+		<integer>-3</integer>
 	</dict>
 	<key>@MMK_L_V</key>
 	<dict>
 		<key>@MMK_R_A</key>
 		<integer>-20</integer>
+		<key>@MMK_R_J</key>
+		<integer>-30</integer>
 		<key>@MMK_R_O</key>
 		<integer>-3</integer>
+		<key>@MMK_R_S</key>
+		<integer>-5</integer>
+		<key>@MMK_R_a</key>
+		<integer>-35</integer>
+		<key>@MMK_R_o</key>
+		<integer>-15</integer>
+		<key>@MMK_R_period</key>
+		<integer>-30</integer>
+	</dict>
+	<key>@MMK_L_Y</key>
+	<dict>
+		<key>@MMK_R_A</key>
+		<integer>-28</integer>
+		<key>@MMK_R_J</key>
+		<integer>-60</integer>
+		<key>@MMK_R_i</key>
+		<integer>-10</integer>
+		<key>@MMK_R_o</key>
+		<integer>-30</integer>
+		<key>@MMK_R_period</key>
+		<integer>-60</integer>
 	</dict>
 	<key>@MMK_L_a</key>
 	<dict>
+		<key>@MMK_R_hyphen</key>
+		<integer>-20</integer>
 		<key>@MMK_R_o</key>
-		<integer>-15</integer>
+		<integer>-7</integer>
+		<key>@MMK_R_qr</key>
+		<integer>-50</integer>
 		<key>@MMK_R_s</key>
 		<integer>-5</integer>
 		<key>@MMK_R_t</key>
 		<integer>-30</integer>
 		<key>@MMK_R_v</key>
 		<integer>-25</integer>
+		<key>@MMK_R_y</key>
+		<integer>-25</integer>
+	</dict>
+	<key>@MMK_L_f</key>
+	<dict>
+		<key>@MMK_R_a</key>
+		<integer>-20</integer>
+	</dict>
+	<key>@MMK_L_hyphen</key>
+	<dict>
+		<key>@MMK_R_A</key>
+		<integer>-10</integer>
+		<key>@MMK_R_t</key>
+		<integer>-20</integer>
 	</dict>
 	<key>@MMK_L_l</key>
 	<dict>
+		<key>@MMK_R_o</key>
+		<integer>-5</integer>
+		<key>@MMK_R_t</key>
+		<integer>-58</integer>
 		<key>@MMK_R_v</key>
 		<integer>-35</integer>
+		<key>@MMK_R_y</key>
+		<integer>-45</integer>
 	</dict>
 	<key>@MMK_L_o</key>
 	<dict>
+		<key>@MMK_R_Y</key>
+		<integer>-30</integer>
 		<key>@MMK_R_a</key>
-		<integer>-15</integer>
+		<integer>-7</integer>
+		<key>@MMK_R_qr</key>
+		<integer>-10</integer>
+		<key>@MMK_R_v</key>
+		<integer>-7</integer>
+		<key>@MMK_R_y</key>
+		<integer>-10</integer>
 	</dict>
 	<key>@MMK_L_p</key>
 	<dict>
 		<key>@MMK_R_a</key>
-		<integer>-24</integer>
+		<integer>-25</integer>
+	</dict>
+	<key>@MMK_L_period</key>
+	<dict>
+		<key>@MMK_R_T</key>
+		<integer>-55</integer>
+		<key>@MMK_R_V</key>
+		<integer>-30</integer>
+		<key>@MMK_R_Y</key>
+		<integer>-60</integer>
+		<key>@MMK_R_t</key>
+		<integer>-50</integer>
+		<key>@MMK_R_v</key>
+		<integer>-35</integer>
+		<key>@MMK_R_y</key>
+		<integer>-50</integer>
+	</dict>
+	<key>@MMK_L_ql</key>
+	<dict>
+		<key>@MMK_R_A</key>
+		<integer>-20</integer>
+	</dict>
+	<key>@MMK_L_qr</key>
+	<dict>
+		<key>@MMK_R_a</key>
+		<integer>-70</integer>
+		<key>@MMK_R_o</key>
+		<integer>-65</integer>
+		<key>@MMK_R_s</key>
+		<integer>-60</integer>
 	</dict>
 	<key>@MMK_L_s</key>
 	<dict>
@@ -79,13 +234,52 @@
 	<dict>
 		<key>@MMK_R_a</key>
 		<integer>-30</integer>
+		<key>@MMK_R_hyphen</key>
+		<integer>-20</integer>
+		<key>@MMK_R_j</key>
+		<integer>-60</integer>
+		<key>@MMK_R_period</key>
+		<integer>-50</integer>
+		<key>@MMK_R_qr</key>
+		<integer>12</integer>
+		<key>@MMK_R_t</key>
+		<integer>12</integer>
+		<key>@MMK_R_y</key>
+		<integer>2</integer>
+	</dict>
+	<key>@MMK_L_u</key>
+	<dict>
+		<key>@MMK_R_A</key>
+		<integer>-5</integer>
 	</dict>
 	<key>@MMK_L_v</key>
 	<dict>
 		<key>@MMK_R_a</key>
 		<integer>-25</integer>
+		<key>@MMK_R_j</key>
+		<integer>-20</integer>
+		<key>@MMK_R_o</key>
+		<integer>-7</integer>
+		<key>@MMK_R_period</key>
+		<integer>-35</integer>
 		<key>@MMK_R_s</key>
 		<integer>-10</integer>
+	</dict>
+	<key>@MMK_L_y</key>
+	<dict>
+		<key>@MMK_R_a</key>
+		<integer>-25</integer>
+		<key>@MMK_R_j</key>
+		<integer>-50</integer>
+		<key>@MMK_R_o</key>
+		<integer>-10</integer>
+		<key>@MMK_R_period</key>
+		<integer>-50</integer>
+	</dict>
+	<key>comma</key>
+	<dict>
+		<key>@MMK_R_T</key>
+		<integer>-70</integer>
 	</dict>
 </dict>
 </plist>

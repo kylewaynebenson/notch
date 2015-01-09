@@ -10,10 +10,10 @@
       <point x="170" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="113" y="700" type="move" name="top"/>
+      <point x="202" y="10" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="202" y="10" type="move" name="ogonek"/>
+      <point x="113" y="700" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

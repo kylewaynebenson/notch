@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tilde" format="1">
-  <advance width="444"/>
+  <advance width="424"/>
   <unicode hex="02DC"/>
   <outline>
     <contour>
       <point x="75" y="953" type="line"/>
       <point x="0" y="878" type="line"/>
       <point x="0" y="756" type="line"/>
-      <point x="152" y="756" type="line"/>
-      <point x="152" y="831" type="line"/>
-      <point x="168" y="846" type="line"/>
-      <point x="183" y="846" type="line"/>
-      <point x="235" y="756" type="line"/>
-      <point x="369" y="756" type="line"/>
-      <point x="444" y="831" type="line"/>
-      <point x="444" y="953" type="line"/>
-      <point x="292" y="953" type="line"/>
-      <point x="292" y="878" type="line"/>
-      <point x="276" y="863" type="line"/>
-      <point x="261" y="863" type="line"/>
-      <point x="209" y="953" type="line"/>
+      <point x="145" y="756" type="line"/>
+      <point x="145" y="831" type="line"/>
+      <point x="161" y="846" type="line"/>
+      <point x="176" y="846" type="line"/>
+      <point x="223" y="756" type="line"/>
+      <point x="349" y="756" type="line"/>
+      <point x="424" y="831" type="line"/>
+      <point x="424" y="953" type="line"/>
+      <point x="280" y="953" type="line"/>
+      <point x="280" y="878" type="line"/>
+      <point x="264" y="863" type="line"/>
+      <point x="249" y="863" type="line"/>
+      <point x="202" y="953" type="line"/>
     </contour>
     <contour>
-      <point x="223" y="700" type="move" name="_top"/>
+      <point x="209" y="700" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

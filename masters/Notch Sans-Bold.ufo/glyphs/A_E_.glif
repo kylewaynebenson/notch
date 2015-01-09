@@ -22,10 +22,10 @@
     </contour>
     <component base="E" xOffset="189"/>
     <contour>
-      <point x="214" y="700" type="move" name="top"/>
+      <point x="385" y="10" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="385" y="10" type="move" name="ogonek"/>
+      <point x="214" y="700" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cedilla" format="1">
-  <advance width="235"/>
+  <advance width="255"/>
   <unicode hex="00B8"/>
   <outline>
-    <component base="ogonek" xOffset="244" xScale="-1"/>
+    <component base="ogonek" xOffset="254" xScale="-1"/>
     <contour>
-      <point x="113" y="0" type="move" name="_bottom"/>
+      <point x="123" y="0" type="move" name="_bottom"/>
     </contour>
   </outline>
 </glyph>

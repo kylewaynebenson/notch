@@ -5,12 +5,12 @@
   <outline>
     <contour>
       <point x="151" y="500" type="line"/>
-      <point x="165" y="456" type="line"/>
-      <point x="205" y="404" type="line"/>
-      <point x="225" y="279" type="line"/>
+      <point x="165" y="460" type="line"/>
+      <point x="205" y="408" type="line"/>
+      <point x="225" y="283" type="line"/>
       <point x="282" y="0" type="line"/>
       <point x="397" y="0" type="line"/>
-      <point x="286" y="500" type="line"/>
+      <point x="277" y="500" type="line"/>
     </contour>
     <contour>
       <point x="116" y="107" type="line"/>
@@ -21,19 +21,19 @@
       <point x="126" y="222" type="line"/>
     </contour>
     <contour>
-      <point x="110" y="500" type="line"/>
+      <point x="119" y="500" type="line"/>
       <point x="0" y="0" type="line"/>
       <point x="115" y="0" type="line"/>
-      <point x="171" y="279" type="line"/>
-      <point x="191" y="404" type="line"/>
-      <point x="229" y="456" type="line"/>
+      <point x="171" y="283" type="line"/>
+      <point x="191" y="408" type="line"/>
+      <point x="229" y="460" type="line"/>
       <point x="245" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="199" y="500" type="move" name="top"/>
+      <point x="398" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="357" y="10" type="move" name="ogonek"/>
+      <point x="199" y="500" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

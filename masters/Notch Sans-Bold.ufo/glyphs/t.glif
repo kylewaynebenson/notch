@@ -9,7 +9,7 @@
       <point x="410" y="370" type="line"/>
       <point x="393" y="500" type="line"/>
     </contour>
-    <component base="i" xOffset="100"/>
+    <component base="i" xOffset="90"/>
     <contour>
       <point x="205" y="250" type="move" name="center"/>
     </contour>

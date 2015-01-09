@@ -165,7 +165,6 @@
 		<string>Wcircumflex</string>
 		<string>Wdieresis</string>
 		<string>Wgrave</string>
-		<string>Y</string>
 		<string>Yacute</string>
 		<string>Ycircumflex</string>
 		<string>Ydieresis</string>
@@ -174,6 +173,10 @@
 	<key>@MMK_L_X</key>
 	<array>
 		<string>X</string>
+	</array>
+	<key>@MMK_L_Y</key>
+	<array>
+		<string>Y</string>
 	</array>
 	<key>@MMK_L_Z</key>
 	<array>
@@ -201,10 +204,6 @@
 		<string>trademark</string>
 		<string>degree</string>
 		<string>asciicircum</string>
-	</array>
-	<key>@MMK_L_b</key>
-	<array>
-		<string>b</string>
 	</array>
 	<key>@MMK_L_bar</key>
 	<array>
@@ -323,11 +322,14 @@
 	</array>
 	<key>@MMK_L_o</key>
 	<array>
+		<string>b</string>
 		<string>c</string>
 		<string>cacute</string>
 		<string>ccaron</string>
 		<string>ccedilla</string>
 		<string>d</string>
+		<string>eth</string>
+		<string>dcroat</string>
 		<string>g</string>
 		<string>gcommaaccent</string>
 		<string>o</string>
@@ -356,7 +358,9 @@
 	</array>
 	<key>@MMK_L_period</key>
 	<array>
+		<string>comma</string>
 		<string>ellipsis</string>
+		<string>period</string>
 	</array>
 	<key>@MMK_L_q</key>
 	<array>
@@ -426,10 +430,12 @@
 	</array>
 	<key>@MMK_L_u</key>
 	<array>
+		<string>Ubreve</string>
 		<string>ij</string>
 		<string>j</string>
 		<string>u</string>
 		<string>uacute</string>
+		<string>ubreve</string>
 		<string>ucircumflex</string>
 		<string>udieresis</string>
 		<string>ugrave</string>
@@ -446,7 +452,6 @@
 		<string>wcircumflex</string>
 		<string>wdieresis</string>
 		<string>wgrave</string>
-		<string>y</string>
 		<string>yacute</string>
 		<string>ycircumflex</string>
 		<string>ydieresis</string>
@@ -455,6 +460,10 @@
 	<key>@MMK_L_x</key>
 	<array>
 		<string>x</string>
+	</array>
+	<key>@MMK_L_y</key>
+	<array>
+		<string>y</string>
 	</array>
 	<key>@MMK_L_yen</key>
 	<array>
@@ -589,6 +598,7 @@
 	<array>
 		<string>U</string>
 		<string>Uacute</string>
+		<string>Ubreve</string>
 		<string>Ucircumflex</string>
 		<string>Udieresis</string>
 		<string>Ugrave</string>
@@ -605,7 +615,6 @@
 		<string>Wcircumflex</string>
 		<string>Wdieresis</string>
 		<string>Wgrave</string>
-		<string>Y</string>
 		<string>Yacute</string>
 		<string>Ycircumflex</string>
 		<string>Ydieresis</string>
@@ -614,6 +623,10 @@
 	<key>@MMK_R_X</key>
 	<array>
 		<string>X</string>
+	</array>
+	<key>@MMK_R_Y</key>
+	<array>
+		<string>Y</string>
 	</array>
 	<key>@MMK_R_Z</key>
 	<array>
@@ -666,6 +679,11 @@
 	<array>
 		<string>quotedblbase</string>
 		<string>quotesinglbase</string>
+	</array>
+	<key>@MMK_R_dcroat</key>
+	<array>
+		<string>eth</string>
+		<string>dcroat</string>
 	</array>
 	<key>@MMK_R_exclam</key>
 	<array>
@@ -793,7 +811,9 @@
 	</array>
 	<key>@MMK_R_period</key>
 	<array>
+		<string>comma</string>
 		<string>ellipsis</string>
+		<string>period</string>
 	</array>
 	<key>@MMK_R_ql</key>
 	<array>
@@ -847,6 +867,7 @@
 	<array>
 		<string>u</string>
 		<string>uacute</string>
+		<string>ubreve</string>
 		<string>ucircumflex</string>
 		<string>udieresis</string>
 		<string>ugrave</string>
@@ -863,7 +884,6 @@
 		<string>wcircumflex</string>
 		<string>wdieresis</string>
 		<string>wgrave</string>
-		<string>y</string>
 		<string>yacute</string>
 		<string>ycircumflex</string>
 		<string>ydieresis</string>
@@ -872,6 +892,10 @@
 	<key>@MMK_R_x</key>
 	<array>
 		<string>x</string>
+	</array>
+	<key>@MMK_R_y</key>
+	<array>
+		<string>y</string>
 	</array>
 	<key>@MMK_R_yen</key>
 	<array>

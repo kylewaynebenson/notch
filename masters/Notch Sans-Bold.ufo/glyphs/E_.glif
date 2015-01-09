@@ -25,13 +25,13 @@
     </contour>
     <component base="I"/>
     <contour>
-      <point x="185" y="700" type="move" name="top"/>
+      <point x="305" y="10" type="move" name="ogonek"/>
     </contour>
     <contour>
       <point x="170" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="305" y="10" type="move" name="ogonek"/>
+      <point x="185" y="700" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

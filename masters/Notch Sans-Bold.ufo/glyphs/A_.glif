@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="1">
-  <advance width="428"/>
+  <advance width="436"/>
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="130" y="700" type="line"/>
-      <point x="152" y="624" type="line"/>
-      <point x="220" y="564" type="line"/>
-      <point x="229" y="380" type="line"/>
-      <point x="255" y="0" type="line"/>
-      <point x="428" y="0" type="line"/>
-      <point x="337" y="700" type="line"/>
+      <point x="134" y="700" type="line"/>
+      <point x="156" y="624" type="line"/>
+      <point x="224" y="564" type="line"/>
+      <point x="233" y="380" type="line"/>
+      <point x="259" y="0" type="line"/>
+      <point x="432" y="0" type="line"/>
+      <point x="341" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="120" y="138" type="line"/>
-      <point x="306" y="138" type="line"/>
-      <point x="306" y="307" type="line"/>
-      <point x="221" y="243" type="line"/>
-      <point x="205" y="243" type="line"/>
-      <point x="120" y="307" type="line"/>
+      <point x="124" y="138" type="line"/>
+      <point x="310" y="138" type="line"/>
+      <point x="310" y="307" type="line"/>
+      <point x="225" y="243" type="line"/>
+      <point x="209" y="243" type="line"/>
+      <point x="124" y="307" type="line"/>
     </contour>
     <contour>
-      <point x="91" y="700" type="line"/>
-      <point x="0" y="0" type="line"/>
-      <point x="172" y="0" type="line"/>
-      <point x="198" y="380" type="line"/>
-      <point x="206" y="565" type="line"/>
-      <point x="272" y="624" type="line"/>
-      <point x="296" y="700" type="line"/>
+      <point x="95" y="700" type="line"/>
+      <point x="4" y="0" type="line"/>
+      <point x="176" y="0" type="line"/>
+      <point x="202" y="380" type="line"/>
+      <point x="210" y="565" type="line"/>
+      <point x="276" y="624" type="line"/>
+      <point x="300" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="214" y="700" type="move" name="top"/>
+      <point x="432" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="428" y="0" type="move" name="ogonek"/>
+      <point x="218" y="700" type="move" name="top"/>
     </contour>
   </outline>
 </glyph>

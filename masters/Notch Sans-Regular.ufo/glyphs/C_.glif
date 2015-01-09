@@ -8,22 +8,22 @@
       <point x="42" y="611" type="line"/>
       <point x="42" y="89" type="line"/>
       <point x="145" y="0" type="line"/>
-      <point x="289" y="0" type="line"/>
-      <point x="385" y="81" type="line"/>
-      <point x="385" y="254" type="line"/>
+      <point x="286" y="0" type="line"/>
+      <point x="390" y="86" type="line"/>
+      <point x="390" y="254" type="line"/>
       <point x="282" y="254" type="line"/>
       <point x="282" y="116" type="line"/>
-      <point x="242" y="81" type="line"/>
+      <point x="244" y="81" type="line"/>
       <point x="196" y="81" type="line"/>
       <point x="157" y="116" type="line"/>
-      <point x="157" y="585" type="line"/>
+      <point x="157" y="586" type="line"/>
       <point x="196" y="620" type="line"/>
-      <point x="245" y="620" type="line"/>
-      <point x="283" y="585" type="line"/>
+      <point x="244" y="620" type="line"/>
+      <point x="283" y="586" type="line"/>
       <point x="283" y="464" type="line"/>
-      <point x="385" y="464" type="line"/>
-      <point x="385" y="619" type="line"/>
-      <point x="291" y="700" type="line"/>
+      <point x="390" y="464" type="line"/>
+      <point x="390" y="614" type="line"/>
+      <point x="289" y="700" type="line"/>
     </contour>
     <contour>
       <point x="231" y="700" type="move" name="top"/>

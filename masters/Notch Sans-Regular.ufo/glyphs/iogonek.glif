@@ -4,7 +4,7 @@
   <unicode hex="012F"/>
   <outline>
     <component base="dotlessi"/>
-    <component base="dotaccent" xOffset="43" yOffset="-200"/>
+    <component base="dotaccent" xOffset="33" yOffset="-200"/>
     <component base="ogonek" xOffset="2" yOffset="10"/>
   </outline>
 </glyph>
