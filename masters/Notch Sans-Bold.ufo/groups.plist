@@ -257,6 +257,10 @@
 		<string>five</string>
 		<string>five.osf</string>
 	</array>
+	<key>@MMK_L_four</key>
+	<array>
+		<string>four</string>
+	</array>
 	<key>@MMK_L_gl</key>
 	<array>
 		<string>guillemotleft</string>
@@ -341,6 +345,7 @@
 		<string>omacron</string>
 		<string>oslash</string>
 		<string>otilde</string>
+		<string>germandbls</string>
 		<string>zero.osf</string>
 	</array>
 	<key>@MMK_L_one</key>
@@ -694,6 +699,14 @@
 	<array>
 		<string>five</string>
 		<string>five.osf</string>
+	</array>
+	<key>@MMK_R_four</key>
+	<array>
+		<string>four</string>
+	</array>
+	<key>@MMK_R_germandbls</key>
+	<array>
+		<string>germandbls</string>
 	</array>
 	<key>@MMK_R_gl</key>
 	<array>
