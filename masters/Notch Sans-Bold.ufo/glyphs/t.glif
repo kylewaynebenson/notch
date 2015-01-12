@@ -5,8 +5,9 @@
   <outline>
     <contour>
       <point x="17" y="500" type="line"/>
-      <point x="0" y="370" type="line"/>
-      <point x="410" y="370" type="line"/>
+      <point x="0" y="360" type="line"/>
+      <point x="206" y="390" type="line"/>
+      <point x="410" y="360" type="line"/>
       <point x="393" y="500" type="line"/>
     </contour>
     <component base="i" xOffset="90"/>

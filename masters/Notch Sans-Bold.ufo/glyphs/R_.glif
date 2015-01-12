@@ -12,7 +12,7 @@
       <point x="251" y="370" type="line"/>
       <point x="177" y="306" type="line"/>
       <point x="178" y="167" type="line"/>
-      <point x="247" y="218" type="line"/>
+      <point x="245" y="216" type="line"/>
       <point x="379" y="315" type="line"/>
       <point x="406" y="349" type="line"/>
       <point x="431" y="413" type="line"/>
@@ -20,9 +20,9 @@
       <point x="316" y="700" type="line"/>
     </contour>
     <contour>
-      <point x="247" y="218" type="line"/>
+      <point x="245" y="216" type="line"/>
       <point x="274" y="0" type="line"/>
-      <point x="454" y="0" type="line"/>
+      <point x="453" y="0" type="line"/>
       <point x="379" y="315" type="line"/>
     </contour>
     <component base="I"/>

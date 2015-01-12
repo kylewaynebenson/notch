@@ -14,14 +14,14 @@
       <point x="291" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="280" y="390" type="line"/>
-      <point x="280" y="116" type="line"/>
-      <point x="239" y="80" type="line"/>
-      <point x="189" y="80" type="line"/>
-      <point x="148" y="116" type="line"/>
-      <point x="148" y="390" type="line"/>
-      <point x="189" y="425" type="line"/>
-      <point x="239" y="425" type="line"/>
+      <point x="280" y="395" type="line"/>
+      <point x="280" y="111" type="line"/>
+      <point x="246" y="80" type="line"/>
+      <point x="182" y="80" type="line"/>
+      <point x="148" y="111" type="line"/>
+      <point x="148" y="395" type="line"/>
+      <point x="182" y="425" type="line"/>
+      <point x="246" y="425" type="line"/>
     </contour>
     <contour>
       <point x="217" y="500" type="move" name="top"/>

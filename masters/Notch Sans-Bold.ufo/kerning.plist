@@ -68,7 +68,7 @@
 	<key>@MMK_L_P</key>
 	<dict>
 		<key>@MMK_R_A</key>
-		<integer>-25</integer>
+		<integer>-27</integer>
 		<key>@MMK_R_a</key>
 		<integer>-35</integer>
 		<key>@MMK_R_j</key>
@@ -155,6 +155,8 @@
 		<integer>-40</integer>
 		<key>@MMK_R_t</key>
 		<integer>-30</integer>
+		<key>@MMK_R_y</key>
+		<integer>-45</integer>
 	</dict>
 	<key>@MMK_L_Y</key>
 	<dict>
@@ -216,6 +218,11 @@
 		<integer>-30</integer>
 		<key>@MMK_R_z</key>
 		<integer>-20</integer>
+	</dict>
+	<key>@MMK_L_k</key>
+	<dict>
+		<key>@MMK_R_o</key>
+		<integer>-10</integer>
 	</dict>
 	<key>@MMK_L_l</key>
 	<dict>
@@ -311,6 +318,8 @@
 	</dict>
 	<key>@MMK_L_t</key>
 	<dict>
+		<key>@MMK_R_T</key>
+		<integer>-30</integer>
 		<key>@MMK_R_X</key>
 		<integer>-30</integer>
 		<key>@MMK_R_a</key>

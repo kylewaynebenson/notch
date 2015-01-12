@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="d" format="1">
-  <advance width="449"/>
+  <advance width="463"/>
   <unicode hex="0064"/>
   <outline>
     <contour>
-      <point x="165" y="500" type="line"/>
-      <point x="165" y="385" type="line"/>
-      <point x="230" y="385" type="line"/>
-      <point x="254" y="364" type="line"/>
-      <point x="254" y="142" type="line"/>
-      <point x="230" y="120" type="line"/>
-      <point x="165" y="120" type="line"/>
-      <point x="165" y="0" type="line"/>
-      <point x="309" y="0" type="line"/>
-      <point x="429" y="103" type="line"/>
-      <point x="429" y="397" type="line"/>
-      <point x="309" y="500" type="line"/>
+      <point x="179" y="500" type="line"/>
+      <point x="179" y="385" type="line"/>
+      <point x="244" y="385" type="line"/>
+      <point x="268" y="364" type="line"/>
+      <point x="268" y="142" type="line"/>
+      <point x="244" y="120" type="line"/>
+      <point x="179" y="120" type="line"/>
+      <point x="179" y="0" type="line"/>
+      <point x="323" y="0" type="line"/>
+      <point x="443" y="103" type="line"/>
+      <point x="443" y="397" type="line"/>
+      <point x="323" y="500" type="line"/>
     </contour>
     <component base="i"/>
     <contour>
