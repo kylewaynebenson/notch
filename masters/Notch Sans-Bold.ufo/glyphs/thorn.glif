@@ -1,27 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thorn" format="1">
-  <advance width="435"/>
+  <advance width="437"/>
   <unicode hex="00FE"/>
   <outline>
     <contour>
-      <point x="101" y="450" type="line"/>
-      <point x="101" y="340" type="line"/>
-      <point x="226" y="340" type="line"/>
-      <point x="250" y="319" type="line"/>
-      <point x="250" y="256" type="line"/>
-      <point x="232" y="226" type="line"/>
-      <point x="118" y="156" type="line"/>
-      <point x="118" y="19" type="line"/>
-      <point x="337" y="148" type="line"/>
-      <point x="425" y="251" type="line"/>
-      <point x="425" y="347" type="line"/>
-      <point x="305" y="450" type="line"/>
+      <point x="113" y="450" type="line"/>
+      <point x="113" y="340" type="line"/>
+      <point x="244" y="340" type="line"/>
+      <point x="262" y="324" type="line"/>
+      <point x="262" y="236" type="line"/>
+      <point x="244" y="206" type="line"/>
+      <point x="130" y="136" type="line"/>
+      <point x="130" y="-1" type="line"/>
+      <point x="349" y="128" type="line"/>
+      <point x="437" y="231" type="line"/>
+      <point x="437" y="347" type="line"/>
+      <point x="317" y="450" type="line"/>
     </contour>
-    <contour>
-      <point x="30" y="500" type="line"/>
-      <point x="30" y="0" type="line"/>
-      <point x="201" y="0" type="line"/>
-      <point x="201" y="500" type="line"/>
-    </contour>
+    <component base="i"/>
   </outline>
 </glyph>

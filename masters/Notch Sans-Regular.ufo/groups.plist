@@ -418,6 +418,10 @@
 		<string>six</string>
 		<string>six.osf</string>
 	</array>
+	<key>@MMK_L_space</key>
+	<array>
+		<string>space</string>
+	</array>
 	<key>@MMK_L_t</key>
 	<array>
 		<string>t</string>
@@ -858,6 +862,10 @@
 	<array>
 		<string>seven</string>
 		<string>seven.osf</string>
+	</array>
+	<key>@MMK_R_space</key>
+	<array>
+		<string>space</string>
 	</array>
 	<key>@MMK_R_t</key>
 	<array>

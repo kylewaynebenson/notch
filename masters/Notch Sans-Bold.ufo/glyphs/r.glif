@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r" format="1">
-  <advance width="435"/>
+  <advance width="447"/>
   <unicode hex="0072"/>
   <outline>
     <contour>
-      <point x="106" y="500" type="line"/>
-      <point x="106" y="388" type="line"/>
-      <point x="226" y="388" type="line"/>
-      <point x="241" y="373" type="line"/>
-      <point x="241" y="285" type="line"/>
-      <point x="225" y="257" type="line"/>
-      <point x="156" y="207" type="line"/>
-      <point x="157" y="74" type="line"/>
-      <point x="231" y="120" type="line"/>
-      <point x="370" y="216" type="line"/>
-      <point x="415" y="281" type="line"/>
-      <point x="415" y="409" type="line"/>
-      <point x="325" y="500" type="line"/>
+      <point x="119" y="500" type="line"/>
+      <point x="119" y="388" type="line"/>
+      <point x="235" y="388" type="line"/>
+      <point x="254" y="372" type="line"/>
+      <point x="254" y="285" type="line"/>
+      <point x="238" y="257" type="line"/>
+      <point x="169" y="207" type="line"/>
+      <point x="170" y="74" type="line"/>
+      <point x="244" y="120" type="line"/>
+      <point x="383" y="216" type="line"/>
+      <point x="428" y="281" type="line"/>
+      <point x="428" y="405" type="line"/>
+      <point x="318" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="231" y="120" type="line"/>
-      <point x="251" y="0" type="line"/>
-      <point x="425" y="0" type="line"/>
-      <point x="370" y="216" type="line"/>
+      <point x="244" y="120" type="line"/>
+      <point x="268" y="0" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="383" y="216" type="line"/>
     </contour>
     <component base="i"/>
     <contour>

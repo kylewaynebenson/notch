@@ -4,29 +4,29 @@
   <unicode hex="0072"/>
   <outline>
     <contour>
-      <point x="117" y="500" type="line"/>
-      <point x="117" y="425" type="line"/>
-      <point x="219" y="425" type="line"/>
-      <point x="258" y="384" type="line"/>
-      <point x="258" y="311" type="line"/>
-      <point x="243" y="270" type="line"/>
-      <point x="160" y="209" type="line"/>
-      <point x="161" y="113" type="line"/>
-      <point x="228" y="158" type="line"/>
-      <point x="315" y="216" type="line"/>
-      <point x="373" y="302" type="line"/>
-      <point x="373" y="413" type="line"/>
-      <point x="283" y="500" type="line"/>
+      <point x="123" y="500" type="line"/>
+      <point x="123" y="425" type="line"/>
+      <point x="231" y="425" type="line"/>
+      <point x="264" y="393" type="line"/>
+      <point x="264" y="304" type="line"/>
+      <point x="249" y="270" type="line"/>
+      <point x="155" y="204" type="line"/>
+      <point x="156" y="108" type="line"/>
+      <point x="234" y="158" type="line"/>
+      <point x="321" y="216" type="line"/>
+      <point x="379" y="302" type="line"/>
+      <point x="379" y="413" type="line"/>
+      <point x="289" y="500" type="line"/>
     </contour>
     <contour>
-      <point x="228" y="158" type="line"/>
-      <point x="268" y="0" type="line"/>
-      <point x="385" y="0" type="line"/>
-      <point x="315" y="216" type="line"/>
+      <point x="234" y="158" type="line"/>
+      <point x="274" y="0" type="line"/>
+      <point x="391" y="0" type="line"/>
+      <point x="321" y="216" type="line"/>
     </contour>
     <component base="i"/>
     <contour>
-      <point x="207" y="500" type="move" name="top"/>
+      <point x="208" y="500" type="move" name="top"/>
     </contour>
     <contour>
       <point x="207" y="0" type="move" name="bottom"/>

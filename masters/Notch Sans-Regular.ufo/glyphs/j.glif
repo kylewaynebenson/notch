@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j" format="1">
-  <advance width="376"/>
+  <advance width="386"/>
   <unicode hex="006A"/>
   <outline>
     <contour>
@@ -9,7 +9,7 @@
       <point x="192" y="81" type="line"/>
       <point x="147" y="81" type="line"/>
       <point x="108" y="110" type="line"/>
-      <point x="107" y="210" type="line"/>
+      <point x="108" y="210" type="line"/>
       <point x="6" y="210" type="line"/>
       <point x="6" y="80" type="line"/>
       <point x="112" y="0" type="line"/>
