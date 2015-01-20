@@ -1,5 +1,7 @@
 # Notch Font Family
 
+![Notch Sans](https://d13yacurqjgara.cloudfront.net/users/18506/screenshots/1890848/notch-sans.jpg)
+
 Notch is a set of cut-in style OpenType fonts designed for a introductory [Skillshare class](http://skl.sh/1CuoDpS) on how to design a display font.
 
 ## Usage
