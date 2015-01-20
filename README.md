@@ -1,6 +1,6 @@
 # Notch Font Family
 
-Notch is a set of cut-in style OpenType fonts designed for a introductory [Skillshare class](http://www.skillshare.com/classes/design/Create-Your-Very-Own-Totally-Custom-Revivalist-Display-Font-Wow/1068312481) on how to design a display font.
+Notch is a set of cut-in style OpenType fonts designed for a introductory [Skillshare class](http://skl.sh/1CuoDpS) on how to design a display font.
 
 ## Usage
 
